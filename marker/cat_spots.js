@@ -3,7 +3,10 @@ var cat_spots = {
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": "01",
+                "description": "."
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -14,7 +17,10 @@ var cat_spots = {
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": "02",
+                "description": "."
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -25,7 +31,10 @@ var cat_spots = {
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": "03",
+                "description": "."
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -36,7 +45,10 @@ var cat_spots = {
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": "04",
+                "description": "."
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -47,7 +59,10 @@ var cat_spots = {
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": "05",
+                "description": "."
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -58,7 +73,10 @@ var cat_spots = {
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": "06",
+                "description": "."
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
