@@ -10,8 +10,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    216.75,
-                    -72
+                    207.25,
+                    -108.5
                 ]
             }
         },
@@ -24,8 +24,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    160,
-                    -143.75
+                    151.5,
+                    -139
                 ]
             }
         },
@@ -38,8 +38,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    131.25,
-                    -174.375
+                    73,
+                    -128.75
                 ]
             }
         },
@@ -52,8 +52,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113.25,
-                    -233.75
+                    119.5,
+                    -212.25
                 ]
             }
         },
@@ -66,8 +66,8 @@ var camera_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    57.53125,
-                    -170.125
+                    36.25,
+                    -173.5
                 ]
             }
         }
