@@ -13,8 +13,8 @@ var interactive_map = new InteractiveMap('map', {
     max_good_zoom: 4,
     // This is the max zoom the map will allow
     max_map_zoom: 5,
-    website_source: 'https://github.com/sh1ndoo/Archi_Forest',
-    website_subdir: 'Archi_Island',
+    website_source: 'https://github.com/sh1ndoo/Archi_Isle',
+    website_subdir: 'Archi_Isle',
     attribution: `
     <li>This project uses sample images from <a href="https://picsum.photos/">picsum.photos</a></li>
 `
